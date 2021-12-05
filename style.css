@@ -1,0 +1,32 @@
+html {
+  font-size: 40px;
+}
+      body {
+        background: skyblue;
+        color: white;
+        font-family: Fuzzy Bubbles;
+      }
+      h2 {
+      text-align: center;
+      }
+
+      h1 {
+        text-align: left;
+        /* text-transform: lowercase; */
+        text-shadow: 2px 2px 5px black;
+        font-size: 1em;
+        font-weight: 300;
+        border-style: dotted;
+        border-width: 1px;
+        border-color: red;
+        width: 85%;
+        margin: 2px auto;
+        }
+
+      .font-size {
+        font-size: 30px;
+      }
+
+.bg {
+  background: #FFBDD5;
+}
